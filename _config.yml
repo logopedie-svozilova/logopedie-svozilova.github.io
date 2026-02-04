@@ -1,9 +1,4 @@
-title: "Mgr. Dana Svozilová, DiS. – Logopedie"
-description: "speciální pedagog, logoped, člen Asociace logopedů ve školství"
-theme: minima
-
-nav:
-  - name: "Úvod"
-    link: "/"
-  - name: "Kontakt"
-    link: "/contact-us"
+remote_theme: jekyll-theme-minimal
+title: Logopedie Mgr. Dana Svozilová
+description: Speciální pedagogika a logopedie Praha 6.
+google_analytics: [ZDE_MUZES_DAT_SVOJE_ID_POKUD_HO_MAS]
